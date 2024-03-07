@@ -1,4 +1,4 @@
-# LoginFtp by C4sper0
+# LoginFtp
 Tool Scan anonymous Tester login For FTP
 
 
